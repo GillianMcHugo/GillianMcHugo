@@ -1,4 +1,4 @@
-![Combined figures from Galway sheep publication](Media/Combined_Galway_header.gif)
+[![Combined figures from Galway sheep publication](https://github.com/GillianMcHugo/GillianMcHugo/blob/master/Media/Combined_Galway_header.gif)](https://doi.org/10.3389/fgene.2019.00927)
 
 My name is [Gillian P. McHugo](https://gillianmchugo.github.io) and I am a PhD student at [University College Dublin,](https://www.ucd.ie) working with [Professor David E. MacHugh](https://people.ucd.ie/david.machugh) and [Professor Stephen V. Gordon.](https://people.ucd.ie/stephen.gordon) I am currently studying integrative genomics of infectious diseases in cattle, focusing on trypanosomiasis in hybrid African cattle and bovine tuberculosis in Irish cattle.
 
